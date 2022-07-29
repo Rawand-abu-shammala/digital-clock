@@ -24,6 +24,6 @@ setInterval(()=>{
     }
 
 
-    time.textContent = hours + ":" + minutes + ":" + seconds + ":" + " " + day_night;
+    time.textContent = hours + ":" + minutes + ":" + seconds + " " + day_night;
 
 });
